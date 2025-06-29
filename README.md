@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction
 
-This project predicts housing prices using machine learning algorithms. It utilizes the **Boston Housing Dataset** and applies **Linear Regression** to build a predictive model.
+This project predicts housing prices using machine learning algorithms. It utilizes the **California Housing Dataset** and applies **Linear Regression** to build a predictive model.
 
 ---
 
